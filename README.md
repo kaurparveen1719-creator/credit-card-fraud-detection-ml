@@ -10,7 +10,7 @@ This project focuses on detecting fraudulent credit card transactions using vari
 - Compare model performance using metrics such as Accuracy, Precision, Recall, and F1-score.  
 
 ## 📂 Dataset  
-The dataset used in this project is available on [Kaggle](https://www.kaggle.com/code/parveenkaur17/credit-card-fraud-detection-balanced-ml/input)).  
+The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).(https://www.kaggle.com/code/parveenkaur17/credit-card-fraud-detection-balanced-ml/input)).  
 It contains **284,807 transactions** with **492 frauds (0.17%)**.  
 
 ## ⚙️ Methods & Approach  
