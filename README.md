@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview  
 This project focuses on detecting fraudulent credit card transactions using various machine learning models. Fraud detection is a highly imbalanced classification problem because fraudulent cases are much rarer than legitimate ones. The goal is to build models that can accurately identify fraud while minimizing false alarms.  
-🔗 [View Notebook on Kaggle](https://www.kaggle.com/code/parveenkaur17/credit-card-fraud-detection-ml)
+🔗 [View Notebook on Kaggle](https://www.kaggle.com/code/parveenkaur17/credit-card-fraud-detection-balanced-ml)
 
 
 ## 🎯 Objectives  
